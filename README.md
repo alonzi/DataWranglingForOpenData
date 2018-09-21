@@ -12,6 +12,10 @@
   1. If you haven't wrangled the data you don't share the data. *You still share the raw data
   2. If you haven't wrangled the data your analysis is meaningless.
 
+## Course Materials
+* This github repo - 
+* Slides
+* 
 ## Open Questions
 1. R, Python, etc. ?
 2. Can I put the open dataset on github?
