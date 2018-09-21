@@ -15,7 +15,7 @@
 ## Course Materials
 * This github repo - 
 * Slides
-* 
+* [OUtline](https://github.com/alonzi/DataWranglingForOpenData/blob/master/ExploratoryDataAnalysis.md)
 ## Open Questions
 1. R, Python, etc. ?
 2. Can I put the open dataset on github?
