@@ -24,5 +24,5 @@
   * 5 min: intro
   * 35 min: cover material
   * 20 min: exercise
-4. I'm anti slide, I prefer to work through a github repo. But I don't want to mess with the jam.
+4. I'm not really a slide guy, I prefer to work through a github repo. But I don't want to mess with the jam.
 5. Are we teaching theory or practice? I assume practice. Depending on tech choice is there enough time?
