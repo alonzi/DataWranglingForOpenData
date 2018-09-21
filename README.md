@@ -9,5 +9,9 @@
 
 
 
-
+## Concepts
 After you collect the data but before you share or analyze the data
+
+
+## Open Questions
+1. R, Python, etc. ?
