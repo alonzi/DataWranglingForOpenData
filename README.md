@@ -16,6 +16,7 @@
 * This github repo - https://github.com/alonzi/DataWranglingForOpenData
 * Slides - <<link>>
 * [Outline](https://github.com/alonzi/DataWranglingForOpenData/blob/master/ExploratoryDataAnalysis.md)
+* Practice dataset
 
 ## Open Questions
 1. [x] tech: excel, R, Python, etc. ?
