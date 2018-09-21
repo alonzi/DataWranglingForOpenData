@@ -13,8 +13,8 @@
   2. If you haven't wrangled the data your analysis is meaningless.
 
 ## Course Materials
-* This github repo - 
-* Slides
+* This github repo - https://github.com/alonzi/DataWranglingForOpenData
+* Slides - <<link>>
 * [Outline](https://github.com/alonzi/DataWranglingForOpenData/blob/master/ExploratoryDataAnalysis.md)
 
 ## Open Questions
