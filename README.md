@@ -16,6 +16,11 @@
 * This github repo - 
 * Slides
 * [Outline](https://github.com/alonzi/DataWranglingForOpenData/blob/master/ExploratoryDataAnalysis.md)
+
 ## Open Questions
-1. R, Python, etc. ?
+1. tech: excel, R, Python, etc. ?
 2. Can I put the open dataset on github?
+3. Time beak down?
+ * 5 min: intro
+ * 35 min: cover material
+ * 20 min: exercise
