@@ -36,11 +36,24 @@ The hard part is to put aside your bias and explore with an open mind. Everythin
 
 ### 2.1.1.2.3 Measures
 #### 2.1.1.2.3.1 Centrality (aka averages)
+* [Wiki is a great resource](https://en.wikipedia.org/wiki/Mean)
 * 2.1.1.2.3.1.1 Mean
+  * What people normally think of as the average
+  * Add everything up and divide by the total number of entries: eg (5,10,15) --> (5+10+15) / 3 = 10
 * 2.1.1.2.3.1.2 Median
+  * The point where as many are above as below: eg (5,10,15) --> 10
 * 2.1.1.2.3.1.3 Mode
+  * The most common value: eg (5,10,15) --> 5,10,15
+* Here is a visual: https://github.com/alonzi/DataWranglingForOpenData/blob/master/mmm.png
+* There are lots of scenarios, these are just a few.
+
 #### 2.1.1.2.3.2 Spread
 * 2.1.1.2.3.2.1 Standard Deviation
+  * Again [Wiki is a great resource](https://en.wikipedia.org/wiki/Standard_deviation)
+  * Gnarly Formula - the square root of the mean of the distance squared
+  * [Visual Expression](https://github.com/alonzi/DataWranglingForOpenData/blob/master/sd.png)
+  * Basically the standard deviation is how spread out your data is (but beware of the two towers example)
+  
 * 2.1.1.2.3.2.2 Quartiles/Interquartile Range
 
 ### 2.1.1.2.1.1 Summary Tables
