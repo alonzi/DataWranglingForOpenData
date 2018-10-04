@@ -1,11 +1,27 @@
 # 2.1.1 Exploratory Data Analysis - Pete Alonzi October 8, 2018
+
 ## 2.1.1.1 Types of Data
-### 2.1.1.1.1 Categorical
+### 2.1.1.1.1 Categorical - Qualitative - limited number of possibilities
 * 2.1.1.1.1.1 Nominal
+  * grouped by characteristic: eg - NFPA 291: fire hydrant color coding
 * 2.1.1.1.1.2 Ordinal
-### 2.1.1.1.2 Numeric
+  * grouped by eg - [Likert scale](https://en.wikipedia.org/wiki/Likert_scale): 1=Like,2=Neutral,3=Dislike
+  * nb: I chose this example because it uses numbers to correspond to categories but it is not numeric
+### 2.1.1.1.2 Numeric - Quantitative - takes on a numerical value that is in direct proportion
 * 2.1.1.1.2.1 Counts
+  * represents the number of times something occurs: eg - number of fire hydrants in Fry's Spring Neighborhood
+  * requires a strict definition: Is half of a sandwich a sandwich?
 * 2.1.1.1.2.2 Measures
+  * represents a quantifiable
+* Error/uncertainty - BONUS ITEM NOT ON THE FORMAL AGENDA
+  * every reported value is only as good as its reported error estimate
+  * two kinds of error
+    * statistical - eg: we sampled 1,000 people and if we sampled a different 1,000 people we would get a different answer
+    * systematic - eg: we sampled 1,000 people but they interpreted the questions differently
+  * Note about election polling data
+    * when it says +/- 3% that means they polled about 1,000 people, they are quoting the statistical error
+    * they do not include the size of the systematic error
+  
 ## 2.1.1.2 Exploring Data
 ### 2.1.1.2.1 Bar Plots
 * 2.1.1.2.1.1 Summary Tables
@@ -20,4 +36,6 @@
 ### 2.1.1.2.5 Box Plots
 ### 2.1.1.2.6 No Data/Nulls
 ### 2.1.1.2.7 Outliers
+
+
 ## 2.1.1.3 Ex. Explore a Data Set
