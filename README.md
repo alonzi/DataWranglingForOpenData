@@ -25,3 +25,4 @@
 
 ##### Fine Print
 * mmm.png is from wikipedia
+* sd.png is from wikipedia
