@@ -23,3 +23,5 @@
   * 35 min: material
   * 20 min: exercise
 
+##### Fine Print
+* mmm.png is from wikipedia
