@@ -26,19 +26,25 @@
 
 Exploratory Data Analysis, EDA. Nabokov put it best, 
 * "In reading, one should notice and [explore] details. ... We should always remember that the work of art is invariably the creation of a new world, so that the first thing we should do is to study that new world as closely as possible, approaching it as something brand new, having no obvious connection with the worlds we already know."
+
 The hard part is to put aside your bias and explore with an open mind. Everything else is easy.
 
-### 2.1.1.2.1 Bar Plots
-* 2.1.1.2.1.1 Summary Tables
-### 2.1.1.2.2 Histograms
-### 2.1.1.2.3 Centrality Measures
-* 2.1.1.2.3.1 Mean
-* 2.1.1.2.3.2 Median
-* 2.1.1.2.3.3 Mode
-### 2.1.1.2.4 Measures of Spread
-* 2.1.1.2.4.1 Standard Deviation
-* 2.1.1.2.4.2 Quartiles/Interquartile Range
-### 2.1.1.2.5 Box Plots
+### 2.1.1.2.1 Plots: Bar, Histogram, and Box (slight reordering from before)
+#### 2.1.1.2.1.1 Histograms
+#### 2.1.1.2.1.2 Bar Plots
+#### 2.1.1.2.1.3 Box Plots
+
+### 2.1.1.2.3 Measures
+#### 2.1.1.2.3.1 Centrality (aka averages)
+* 2.1.1.2.3.1.1 Mean
+* 2.1.1.2.3.1.2 Median
+* 2.1.1.2.3.1.3 Mode
+#### 2.1.1.2.3.2 Spread
+* 2.1.1.2.3.2.1 Standard Deviation
+* 2.1.1.2.3.2.2 Quartiles/Interquartile Range
+
+### 2.1.1.2.1.1 Summary Tables
+
 ### 2.1.1.2.6 No Data/Nulls
 ### 2.1.1.2.7 Outliers
 
