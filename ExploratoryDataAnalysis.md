@@ -60,6 +60,9 @@ The hard part is to put aside your bias and explore with an open mind. Everythin
   * [Visual Example](https://github.com/alonzi/DataWranglingForOpenData/blob/master/quartiles.png)
 
 ### 2.1.1.2.1.1 Summary Tables
+* A summary table is typically laid out with rows representing objects and columns representing observables of those objects
+  * example rows: the city of charlottesville, albamarle county
+  * example columns: population, population density, mean number of misdemeanor arrests per day, etc.
 
 ### 2.1.1.2.6 Exceptions
 #### 2.1.1.2.6.1 No Data/Nulls
