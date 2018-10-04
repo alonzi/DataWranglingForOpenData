@@ -94,4 +94,15 @@ The hard part is to put aside your bias and explore with an open mind. Everythin
     * in this case subsetting is often very useful
 
 
-## 2.1.1.3 Ex. Explore a Data Set
+## 2.1.1.3 Exercise Explore a Data Set
+While you are working these exercises take note of the problems that crop up.
+
+* Categorical or numerical? Explain why.
+  * gender
+  * wage
+  * date of birth
+  
+* Pick a variable and make a histogram or a bar graph. Explain why you chose that type of plot.
+
+* Compute the mean, median, and mode of the wage feature.
+
