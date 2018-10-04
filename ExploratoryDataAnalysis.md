@@ -23,6 +23,11 @@
     * they do not include the size of the systematic error
   
 ## 2.1.1.2 Exploring Data
+
+Exploratory Data Analysis, EDA. Nabokov put it best, 
+* "In reading, one should notice and [explore] details. ... We should always remember that the work of art is invariably the creation of a new world, so that the first thing we should do is to study that new world as closely as possible, approaching it as something brand new, having no obvious connection with the worlds we already know."
+The hard part is to put aside your bias and explore with an open mind. Everything else is easy.
+
 ### 2.1.1.2.1 Bar Plots
 * 2.1.1.2.1.1 Summary Tables
 ### 2.1.1.2.2 Histograms
