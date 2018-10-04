@@ -1,7 +1,7 @@
 # Data Wrangling for Open Data
 
 ## WWWWW
-* Pete Alonzi - PhD Particle Physics - UVA Data Science Institute Data Scientists
+* Pete Alonzi - PhD Particle Physics - UVA Data Science Institute Data Scientist
 * Data Wrangling (aka getting the data into shape)
 * October 8, 2018 ~ 10:00 - 11:00
 * TJPDC Water Street Center
