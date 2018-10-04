@@ -37,9 +37,16 @@ The hard part is to put aside your bias and explore with an open mind. Everythin
   * The core idea is that the order does not matter for Bar Graphs because they are categorical, order matters for histograms because the data is numerical and ordered.
 
 * [Histogram Example](https://github.com/alonzi/DataWranglingForOpenData/blob/master/histo.png)
-* [Bar Graph](https://github.com/alonzi/DataWranglingForOpenData/blob/master/bargraph.jpg)
+* [Bar Graph Example](https://github.com/alonzi/DataWranglingForOpenData/blob/master/bargraph.jpg)
     
 #### 2.1.1.2.1.2 Box Plots
+* There are a few versions, make sure you know what you're looking at. Here we describe the most common.
+* Features:
+  * Central Band: denotes the median
+  * Box limits: denotes the median of the upper and lower halves of the dataset
+  * Whiskers: varies greatly, often an extended quartile multiple or percentile, always check this one
+  * Outliers: Often represented as individual points
+* [Box Plot Example](https://github.com/alonzi/DataWranglingForOpenData/blob/master/mm.png)
 
 ### 2.1.1.2.3 Measures
 #### 2.1.1.2.3.1 Centrality (aka averages)
