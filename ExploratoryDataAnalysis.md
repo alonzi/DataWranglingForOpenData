@@ -55,6 +55,9 @@ The hard part is to put aside your bias and explore with an open mind. Everythin
   * Basically the standard deviation is how spread out your data is (but beware of the two towers example)
   
 * 2.1.1.2.3.2.2 Quartiles/Interquartile Range
+  * A quartile is a type of quantile, it is one fourth of the data
+  * Defined by three points: Q1,Q2,Q3
+  * [Visual Example](https://github.com/alonzi/DataWranglingForOpenData/blob/master/quartiles.png)
 
 ### 2.1.1.2.1.1 Summary Tables
 
