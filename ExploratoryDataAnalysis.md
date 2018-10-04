@@ -7,7 +7,7 @@
 * 2.1.1.1.1.2 Ordinal
   * grouped by eg - [Likert scale](https://en.wikipedia.org/wiki/Likert_scale): 1=Like,2=Neutral,3=Dislike
   * nb: I chose this example because it uses numbers to correspond to categories but it is not numeric
-### 2.1.1.1.2 Numeric - Quantitative - takes on a numerical value that is in direct proportion
+### 2.1.1.1.2 Numerical - Quantitative - takes on a numerical value that is in direct proportion
 * 2.1.1.1.2.1 Counts
   * represents the number of times something occurs: eg - number of fire hydrants in Fry's Spring Neighborhood
   * requires a strict definition: Is half of a sandwich a sandwich?
@@ -30,9 +30,16 @@ Exploratory Data Analysis, EDA. Nabokov put it best,
 The hard part is to put aside your bias and explore with an open mind. Everything else is easy.
 
 ### 2.1.1.2.1 Plots: Bar, Histogram, and Box (slight reordering from before)
-#### 2.1.1.2.1.1 Histograms
-#### 2.1.1.2.1.2 Bar Plots
-#### 2.1.1.2.1.3 Box Plots
+#### 2.1.1.2.1.1 Histograms and Bar Graphs
+* Lots of discussion on the difference but simply put
+  * Histograms express numerical data
+  * Bar Graphs express categorical data
+  * The core idea is that the order does not matter for Bar Graphs because they are categorical, order matters for histograms because the data is numerical and ordered.
+
+* [Histogram Example](https://github.com/alonzi/DataWranglingForOpenData/blob/master/histo.png)
+* [Bar Graph](https://github.com/alonzi/DataWranglingForOpenData/blob/master/bargraph.jpg)
+    
+#### 2.1.1.2.1.2 Box Plots
 
 ### 2.1.1.2.3 Measures
 #### 2.1.1.2.3.1 Centrality (aka averages)
