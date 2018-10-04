@@ -61,8 +61,20 @@ The hard part is to put aside your bias and explore with an open mind. Everythin
 
 ### 2.1.1.2.1.1 Summary Tables
 
-### 2.1.1.2.6 No Data/Nulls
-### 2.1.1.2.7 Outliers
+### 2.1.1.2.6 Exceptions
+#### 2.1.1.2.6.1 No Data/Nulls
+* Sometimes data is missing: we call that No Data
+  * depending on your analysis this may skew the results or even invalidate them
+  * you can do several things: exclude and impute are two common solutions
+* Sometimes data is encoded as Null
+  * this means zero but often does not mean zero, be careful
+  * look to the data dictionary to understand what is going on
+
+#### 2.1.1.2.6.2 Outliers
+* Outliers are tricky
+  * if they arise from a statistical effect they cannot be ignored, but without proper treatement will skey results, proper error estimation is critical
+  * if they arise from a systematic effect they can be excluded as long as provisions are clearly explained to the audience
+    * in this case subsetting is often very useful
 
 
 ## 2.1.1.3 Ex. Explore a Data Set
