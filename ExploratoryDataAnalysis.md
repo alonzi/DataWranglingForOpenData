@@ -95,7 +95,7 @@ The hard part is to put aside your bias and explore with an open mind. Everythin
 
 
 ## 2.1.1.3 Exercise Explore a Data Set
-While you are working these exercises take note of the problems that crop up.
+While you are working these exercises take note of the problems that crop up. We will be addressing them in future sessions.
 
 * Categorical or numerical? Explain why.
   * gender
@@ -104,5 +104,9 @@ While you are working these exercises take note of the problems that crop up.
   
 * Pick a variable and make a histogram or a bar graph. Explain why you chose that type of plot.
 
-* Compute the mean, median, and mode of the wage feature.
+* Compute the mean, median, mode, and standard deviation of the wage feature.
+
+* Pick a feature and make a summary table.
+
+* Identify an outlier and explain how to treat it.
 
