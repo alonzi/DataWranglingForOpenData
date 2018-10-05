@@ -3,14 +3,12 @@
 ## WWWWW
 * Pete Alonzi - PhD Particle Physics - UVA Data Science Institute Data Scientist
 * Data Wrangling (aka getting the data into shape)
-* October 8, 2018 ~ 10:00 - 11:00
+* October 8, 2018 ~ 10:00 - 11:00: [Exploratory Data Analysis](https://github.com/alonzi/DataWranglingForOpenData/blob/master/ExploratoryDataAnalysis.md)
 * TJPDC Water Street Center
 * Teach basic data cleaning principles
 
 ## Course Materials
 * This github repo - https://github.com/alonzi/DataWranglingForOpenData
-* Slides - <<link>>
-* [Outline](https://github.com/alonzi/DataWranglingForOpenData/blob/master/ExploratoryDataAnalysis.md)
 * [Practice dataset](https://docs.google.com/spreadsheets/d/1w_NcwlSaR930LAIRTlXrE2_7-2MgCh-dCOyX1v9qeds/edit#gid=12843064890)
 
 ## Technology
@@ -20,8 +18,8 @@
 
 ## Plan for the hour
   * 5 min: intro
-  * 35 min: material
-  * 20 min: exercise
+  * 35 min: cover material
+  * 20 min: exercise (some parts will be worked into the cover material section)
 
 ##### Fine Print
 * mmm.png is from wikipedia
