@@ -72,13 +72,13 @@ The hard part is to put aside your bias and explore with an open mind. Everythin
   * Defined by three points: Q1,Q2,Q3
   * [Visual Example](https://github.com/alonzi/DataWranglingForOpenData/blob/master/quartiles.png)
 
-### 2.1.1.2.1.1 Summary Tables
+### 2.1.1.2.4 Summary Tables
 * A summary table is typically laid out with rows representing objects and columns representing observables of those objects
-  * example rows: the city of charlottesville, albamarle county
+  * example rows: the city of charlottesville, albemarle county
   * example columns: population, population density, mean number of misdemeanor arrests per day, etc.
 
-### 2.1.1.2.6 Exceptions
-#### 2.1.1.2.6.1 No Data/Nulls
+### 2.1.1.2.5 Exceptions
+#### 2.1.1.2.5.1 No Data/Nulls
 * Sometimes data is missing: we call that No Data
   * depending on your analysis this may skew the results or even invalidate them
   * you can do several things: exclude and impute are two common solutions
@@ -86,9 +86,9 @@ The hard part is to put aside your bias and explore with an open mind. Everythin
   * this means zero but often does not mean zero, be careful
   * look to the data dictionary to understand what is going on
 
-#### 2.1.1.2.6.2 Outliers
+#### 2.1.1.2.5.2 Outliers
 * Outliers are tricky
-  * if they arise from a statistical effect they cannot be ignored, but without proper treatement will skey results, proper error estimation is critical
+  * if they arise from a statistical effect they cannot be ignored, but without proper treatement will skew results, proper error estimation is critical
   * if they arise from a systematic effect they can be excluded as long as provisions are clearly explained to the audience
     * in this case subsetting is often very useful
 
