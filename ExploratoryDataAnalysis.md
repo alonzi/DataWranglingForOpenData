@@ -31,11 +31,10 @@ The hard part is to put aside your bias and explore with an open mind. Everythin
 
 ### 2.1.1.2.1 Plots: Bar, Histogram, and Box (slight reordering from before)
 #### 2.1.1.2.1.1 Histograms and Bar Graphs
-* Lots of discussion on the difference but simply put
+* Histograms and Bar Graphs have lots of similarities. Here is the core difference:
   * Histograms express numerical data
   * Bar Graphs express categorical data
-  * The core idea is that the order does not matter for Bar Graphs because they are categorical, order matters for histograms because the data is numerical and ordered.
-
+  
 * [Histogram Example](https://github.com/alonzi/DataWranglingForOpenData/blob/master/histo.png)
 * [Bar Graph Example](https://github.com/alonzi/DataWranglingForOpenData/blob/master/bargraph.jpg)
     
