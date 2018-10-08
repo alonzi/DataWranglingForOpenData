@@ -71,7 +71,7 @@ The hard part is to put aside your bias and explore with an open mind. Everythin
   * [Visual Expression](https://github.com/alonzi/DataWranglingForOpenData/blob/master/sd.png)
   * Basically the standard deviation is how spread out your data is (but beware of the two towers example)
   
-* 2.1.1.2.3.2.2 Quartiles/Interquartile Range
+* 2.1.1.2.3.2.2 Quartiles/Interquartile Range - in Excel "=QUARTILE.INC(cell range, <<1>>)"
   * A quartile is a type of quantile, it is one fourth of the data
   * Defined by three points: Q1,Q2,Q3
   * [Visual Example](https://github.com/alonzi/DataWranglingForOpenData/blob/master/quartiles.png)
