@@ -2,7 +2,7 @@
 
 ## 2.1.1.1 Types of Data
 ### 2.1.1.1.1 Categorical - Qualitative - limited number of possibilities
-* 2.1.1.1.1.1 Nominal - collectively grouped on the basis of a particular characteristic
+* 2.1.1.1.1.1 Nominal - "collectively grouped on the basis of a particular characteristic"
   * grouped by characteristics: eg - [NFPA 291](https://www.google.com/search?q=nfpa+291&safe=off&rlz=1C5CHFA_enUS690US690&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiAjoKJtu3dAhXEMd8KHQlwAosQ_AUIDygC&biw=1440&bih=636&dpr=2#imgrc=pB0PvN24Ei9lNM:)
 * 2.1.1.1.1.2 Ordinal - "natural, ordered categories"
   * eg: [Likert scale](https://en.wikipedia.org/wiki/Likert_scale): 1=Like,2=Neutral,3=Dislike
