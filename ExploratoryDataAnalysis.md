@@ -33,6 +33,9 @@ The hard part is to put aside your bias and explore with an open mind. Everythin
 #### 2.1.1.2.1.1 Histograms and Bar Graphs
 * Histograms and Bar Graphs have lots of similarities. Here is the core difference:
   * Histograms express numerical data
+    * Hardest part in excel is finding the fiddly bit for them
+    * For me: Tools -> Excel Add-ins -> Analysis ToolPak ; then Data -> Data Analysis -> Histogram
+    * Don't forget to click, 'chart output'
   * Bar Graphs express categorical data
   
 * [Histogram Example](https://github.com/alonzi/DataWranglingForOpenData/blob/master/histo.png)
