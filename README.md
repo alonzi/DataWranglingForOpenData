@@ -9,7 +9,7 @@
 
 ## Course Materials
 * This github repo - https://github.com/alonzi/DataWranglingForOpenData
-* [Practice dataset](https://docs.google.com/spreadsheets/d/1w_NcwlSaR930LAIRTlXrE2_7-2MgCh-dCOyX1v9qeds/edit#gid=12843064890)
+* [Practice dataset](https://github.com/alonzi/DataWranglingForOpenData/blob/master/Demo%20Set-%20Office%20Intern%20List.xlsx)
 
 ## Technology
 * We are going to be working in excel today, our data is hosted on google docs as a google sheet (download as .xlsx)
