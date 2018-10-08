@@ -65,7 +65,7 @@ The hard part is to put aside your bias and explore with an open mind. Everythin
 * There are lots of scenarios, these are just a few.
 
 #### 2.1.1.2.3.2 Spread
-* 2.1.1.2.3.2.1 Standard Deviation
+* 2.1.1.2.3.2.1 Standard Deviation - in Excel "=STDEV.S"
   * Again [Wiki is a great resource](https://en.wikipedia.org/wiki/Standard_deviation)
   * Gnarly Formula - the square root of the mean of the distance squared
   * [Visual Expression](https://github.com/alonzi/DataWranglingForOpenData/blob/master/sd.png)
