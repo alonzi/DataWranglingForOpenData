@@ -8,11 +8,11 @@
   * eg: [Likert scale](https://en.wikipedia.org/wiki/Likert_scale): 1=Like,2=Neutral,3=Dislike
   * nb: I chose this example because it uses numbers to correspond to categories but it is not numeric
 ### 2.1.1.1.2 Numerical - Quantitative - takes on a numerical value that is in direct proportion
-* 2.1.1.1.2.1 Counts
+* 2.1.1.1.2.1 Counts - integer
   * represents the number of times something occurs: eg - number of fire hydrants in Fry's Spring Neighborhood
   * requires a strict definition: Is half of a sandwich a sandwich?
-* 2.1.1.1.2.2 Measures
-  * represents a quantifiable
+* 2.1.1.1.2.2 Measures - float
+  * represents a quantifiable value
 * Error/uncertainty - BONUS ITEM NOT ON THE FORMAL AGENDA
   * every reported value is only as good as its reported error estimate
   * two kinds of error
