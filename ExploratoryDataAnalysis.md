@@ -49,7 +49,8 @@ The hard part is to put aside your bias and explore with an open mind. Everythin
   * Whiskers: varies greatly, often an extended quartile multiple or percentile, always check this one
   * Outliers: Often represented as individual points
 * [Box Plot Example](https://github.com/alonzi/DataWranglingForOpenData/blob/master/mm.png)
-
+* In excel this is [gnarly](https://support.office.com/en-us/article/create-a-box-plot-10204530-8cdf-40fe-a711-2eb9785e510f)
+  
 ### 2.1.1.2.3 Measures
 #### 2.1.1.2.3.1 Centrality (aka averages)
 * [Wiki is a great resource](https://en.wikipedia.org/wiki/Mean)
