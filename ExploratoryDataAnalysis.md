@@ -54,12 +54,12 @@ The hard part is to put aside your bias and explore with an open mind. Everythin
 ### 2.1.1.2.3 Measures
 #### 2.1.1.2.3.1 Centrality (aka averages)
 * [Wiki is a great resource](https://en.wikipedia.org/wiki/Mean)
-* 2.1.1.2.3.1.1 Mean
+* 2.1.1.2.3.1.1 Mean - in Excel "=AVERAGE"
   * What people normally think of as the average
   * Add everything up and divide by the total number of entries: eg (5,10,15) --> (5+10+15) / 3 = 10
-* 2.1.1.2.3.1.2 Median
+* 2.1.1.2.3.1.2 Median - in Excel "=MEDIAN"
   * The point where as many are above as below: eg (5,10,15) --> 10
-* 2.1.1.2.3.1.3 Mode
+* 2.1.1.2.3.1.3 Mode - in Excel "=MODE"
   * The most common value: eg (5,10,15) --> 5,10,15
 * Here is a visual: https://github.com/alonzi/DataWranglingForOpenData/blob/master/mmm.png
 * There are lots of scenarios, these are just a few.
