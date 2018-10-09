@@ -3,9 +3,10 @@
 ## 2.1.1.1 Types of Data
 ### 2.1.1.1.1 Categorical - Qualitative - limited number of possibilities
 * 2.1.1.1.1.1 Nominal - "collectively grouped on the basis of a particular characteristic"
-  * grouped by characteristics: eg - [NFPA 291](https://www.google.com/search?q=nfpa+291&safe=off&rlz=1C5CHFA_enUS690US690&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiAjoKJtu3dAhXEMd8KHQlwAosQ_AUIDygC&biw=1440&bih=636&dpr=2#imgrc=pB0PvN24Ei9lNM:)
+  * grouped by characteristics: coulmn D in sample dataset
 * 2.1.1.1.1.2 Ordinal - "natural, ordered categories"
   * eg: [Likert scale](https://en.wikipedia.org/wiki/Likert_scale): 1=Like,2=Neutral,3=Dislike
+  * eg - [NFPA 291](https://www.google.com/search?q=nfpa+291&safe=off&rlz=1C5CHFA_enUS690US690&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiAjoKJtu3dAhXEMd8KHQlwAosQ_AUIDygC&biw=1440&bih=636&dpr=2#imgrc=pB0PvN24Ei9lNM:)
   * nb: I chose this example because it uses numbers to correspond to categories but it is not numeric
 ### 2.1.1.1.2 Numerical - Quantitative - takes on a numerical value that is in direct proportion
 * 2.1.1.1.2.1 Counts - integer
