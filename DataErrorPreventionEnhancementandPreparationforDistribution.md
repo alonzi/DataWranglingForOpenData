@@ -45,7 +45,8 @@
 ### 2.1.3.3.3 Unicode - Special Characters
 * text must be encoded so that a computer can store the information and then represent it when loaded
 * the current standard is utf-8
-* if you need to use a special character (eg: ö) it is best to use the utf-8 version
+* if you need to use a special character (eg: ö) it is best to use the utf-8 version (&#246;)
+* https://www.periodni.com/unicode_utf-8_encoding.html
 
 ### 2.1.3.3.4 Remove Blank Lines
 ### 2.1.3.3.5 Data Dictionary
