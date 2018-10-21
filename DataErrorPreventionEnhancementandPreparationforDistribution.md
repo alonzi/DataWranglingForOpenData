@@ -12,10 +12,19 @@
   * https://knowyourmeme.com/memes/nuclear-gandhi
   * Ghandi starts the game as super peaceful, but if you do something to placate him he becomes super aggressive
   * He start with aggression = 0, so when you give him -1 it becomes 7, becuase it was 1-bit in the programming
+* practice with column H - badge #
+  * in this case we can just make an artificial constraint say we only want badges below 250,000
+  * create a new column using a function IF(H2<250000,"VALID","INVALID")
+  
 ### 2.1.3.1.3 Duplicate Records
+* IF(COUNTIF($A$2:$A$<<lastrow>>, $A2)>1, "Duplicate", "Unique")
+
 ## 2.1.3.2 Enhancing Your Data
 ### 2.1.3.2.1 Splitting/Joining Columns
-### 2.1.3.2.2 Joining Tables
+### 2.1.3.2.2 Joining Tables (not the database definition)
+* using content from one sheet in another sheet
+* it is important to not duplicate data because then you need to update it in multiple places
+* excel syntax: "=Sheet1!C11"
 ### 2.1.3.2.3 Pivot Tables
 ## 2.1.3.3 Preparation for Distribution
 ### 2.1.3.3.1 Identify Fields for Distribution
