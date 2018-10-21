@@ -11,7 +11,7 @@
 * classic example is Nuclear Ghandi in the video game Civilization
   * https://knowyourmeme.com/memes/nuclear-gandhi
   * Ghandi starts the game as super peaceful, but if you do something to placate him he becomes super aggressive
-  * He started with aggression = 0, so when you give him -1 it became -1, which is the same as 7 becuase it was 1-bit
+  * He start with aggression = 0, so when you give him -1 it becomes 7, becuase it was 1-bit in the programming
 ### 2.1.3.1.3 Duplicate Records
 ## 2.1.3.2 Enhancing Your Data
 ### 2.1.3.2.1 Splitting/Joining Columns
