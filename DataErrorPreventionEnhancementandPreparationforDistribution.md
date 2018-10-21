@@ -50,5 +50,21 @@
 
 ### 2.1.3.3.4 Remove Blank Lines
 ### 2.1.3.3.5 Data Dictionary
+* There's an old saying and it goes like this
+  * Q: If you have an excel file of 100 MB how much data do you have?
+  * A: 0 MB
+  * Q: If you have a well formatted relational database of 100 MB how much data do you have?
+  * A: 0 MB
+  * Q: If you have a good data dictionary how much data do you have?
+  * A: More than you coudl every handle.
+  
+* The point is that without a data dictionary your dataset has no meaning.
+
+* Key features:
+  * clear definitions of fields in your dataset
+  * references to specs where appropriate
+  * recipie to validate contents of dataset
+  
+  
 ## 2.1.3.4 Ex. Checking Your Data (Checklist)
 * add link to checklist right before class
