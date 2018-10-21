@@ -25,6 +25,9 @@
 * using content from one sheet in another sheet
 * it is important to not duplicate data because then you need to update it in multiple places
 * excel syntax: "=Sheet1!C11"
+* breakdown: = << name of sheet >> ! << cell id in original sheet >>
+* clicking with mouse fills it in automatically
+
 ### 2.1.3.2.3 Pivot Tables
 ## 2.1.3.3 Preparation for Distribution
 ### 2.1.3.3.1 Identify Fields for Distribution
