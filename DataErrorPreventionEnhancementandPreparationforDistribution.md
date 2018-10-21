@@ -14,3 +14,4 @@
 ### 2.1.3.3.4 Remove Blank Lines
 ### 2.1.3.3.5 Data Dictionary
 ## 2.1.3.4 Ex. Checking Your Data (Checklist)
+* add link to checklist right before class
