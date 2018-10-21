@@ -34,8 +34,19 @@
 
 ## 2.1.3.3 Preparation for Distribution
 ### 2.1.3.3.1 Identify Fields for Distribution
+* What do I want to convey?
+* What does my audience need to understand it?
+* What am I allowed to share with my audience?
+
 ### 2.1.3.3.2 Suitable Names
+* short and pithy
+* clear and unambiguous
+
 ### 2.1.3.3.3 Unicode - Special Characters
+* text must be encoded so that a computer can store the information and then represent it when loaded
+* the current standard is utf-8
+* if you need to use a special character (eg: ö) it is best to use the utf-8 version
+
 ### 2.1.3.3.4 Remove Blank Lines
 ### 2.1.3.3.5 Data Dictionary
 ## 2.1.3.4 Ex. Checking Your Data (Checklist)
