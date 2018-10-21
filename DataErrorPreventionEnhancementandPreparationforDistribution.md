@@ -29,6 +29,7 @@
 * clicking with mouse fills it in automatically
 
 ### 2.1.3.2.3 Pivot Tables
+* A pivot table is a table of statistics that summarize the data of a more extensive table (such as from a database, spreadsheet, or business intelligence program). This summary might include sums, averages, or other statistics, which the pivot table groups together in a meaningful way. ~ [wiki](https://en.wikipedia.org/wiki/Pivot_table)
 ## 2.1.3.3 Preparation for Distribution
 ### 2.1.3.3.1 Identify Fields for Distribution
 ### 2.1.3.3.2 Suitable Names
