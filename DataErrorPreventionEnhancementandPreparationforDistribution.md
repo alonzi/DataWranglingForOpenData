@@ -69,4 +69,4 @@
   
   
 ## 2.1.3.4 Ex. Checking Your Data (Checklist)
-* add link to checklist right before class
+* [link](https://docs.google.com/document/d/1f1PVRjh-yVJyMh1k-q-okikzWK09h16eKwT7W5ZdmWI/edit#heading=h.ion5ibahxeor)
