@@ -11,7 +11,7 @@
 * classic example is Nuclear Ghandi in the video game Civilization
   * https://knowyourmeme.com/memes/nuclear-gandhi
   * Ghandi starts the game as super peaceful, but if you do something to placate him he becomes super aggressive
-  * He start with aggression = 0, so when you give him -1 it becomes 7, becuase it was 1-bit in the programming
+  * He start with aggression = 0, so when you give him -1 it becomes 7, because it was 1-bit in the programming
 * practice with column H - badge #
   * in this case we can just make an artificial constraint say we only want badges below 250,000
   * create a new column using a function IF(H2<250000,"VALID","INVALID")
@@ -21,6 +21,7 @@
 
 ## 2.1.3.2 Enhancing Your Data
 ### 2.1.3.2.1 Splitting/Joining Columns
+* Data --> Text to Columnns  (then play around with clicky interface)
 ### 2.1.3.2.2 Joining Tables (not the database definition)
 * using content from one sheet in another sheet
 * it is important to not duplicate data because then you need to update it in multiple places
@@ -41,6 +42,7 @@
 ### 2.1.3.3.2 Suitable Names
 * short and pithy
 * clear and unambiguous
+* follow convention: Upper Case, Lower Case, Proper Case, Camel Case, or Snake Case
 
 ### 2.1.3.3.3 Unicode - Special Characters
 * text must be encoded so that a computer can store the information and then represent it when loaded
@@ -56,7 +58,7 @@
   * Q: If you have a well formatted relational database of 100 MB how much data do you have?
   * A: 0 MB
   * Q: If you have a good data dictionary how much data do you have?
-  * A: More than you coudl every handle.
+  * A: More than you could ever handle.
   
 * The point is that without a data dictionary your dataset has no meaning.
 
