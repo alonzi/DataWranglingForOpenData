@@ -17,7 +17,7 @@
   * create a new column using a function IF(H2<250000,"VALID","INVALID")
   
 ### 2.1.3.1.3 Duplicate Records
-* IF(COUNTIF($A$2:$A$< <lastrow> >, $A2)>1, "Duplicate", "Unique")
+* IF(COUNTIF($A$2:$A$lastrow, $A2)>1, "Duplicate", "Unique")
 
 ## 2.1.3.2 Enhancing Your Data
 ### 2.1.3.2.1 Splitting/Joining Columns
